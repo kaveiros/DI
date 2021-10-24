@@ -4,6 +4,11 @@ import com.di.services.CarInsuranceService;
 
 import jakarta.inject.Inject;
 
+/**
+ * Provider class for Car Insurance service.
+ * @author Nikos Chan
+ *
+ */
 public class CarInsuranceProvider {
 	
 	@Inject

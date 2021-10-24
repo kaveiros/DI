@@ -7,6 +7,11 @@ import com.di.services.MotoInsuranceService;
 
 import jakarta.inject.Inject;
 
+/**
+ * Provider class for Moto insurance service.
+ * @author Nikos Chan
+ *
+ */
 public class MotoInsuranceProvider {
 	
 	@Inject

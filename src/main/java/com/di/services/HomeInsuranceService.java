@@ -4,6 +4,11 @@ import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
 import jakarta.enterprise.context.Dependent;
 
+/**
+ * Class modeling home insurance service.
+ * @author Nikos Chan
+ *
+ */
 @Dependent
 public class HomeInsuranceService implements BaseService {
 	
